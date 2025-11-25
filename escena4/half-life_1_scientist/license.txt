@@ -1,0 +1,11 @@
+Model Information:
+* title:	Half-Life 1 Scientist
+* source:	https://sketchfab.com/3d-models/half-life-1-scientist-64bc8b22c8ac4b2e9c72018257bf2449
+* author:	Mr. Snark (https://sketchfab.com/Mr-Snark)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Half-Life 1 Scientist" (https://sketchfab.com/3d-models/half-life-1-scientist-64bc8b22c8ac4b2e9c72018257bf2449) by Mr. Snark (https://sketchfab.com/Mr-Snark) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
