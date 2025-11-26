@@ -1,0 +1,11 @@
+Model Information:
+* title:	medical screen
+* source:	https://sketchfab.com/3d-models/medical-screen-61896277b8994127b239639e6f3e159d
+* author:	supervacanea (https://sketchfab.com/supervacanea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "medical screen" (https://sketchfab.com/3d-models/medical-screen-61896277b8994127b239639e6f3e159d) by supervacanea (https://sketchfab.com/supervacanea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

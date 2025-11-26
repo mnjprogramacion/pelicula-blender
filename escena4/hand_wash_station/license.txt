@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hand wash station
+* source:	https://sketchfab.com/3d-models/hand-wash-station-d4a93239be1f40ee94f1eaee4ac717d3
+* author:	Alphawolff (https://sketchfab.com/Alphawolff)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hand wash station" (https://sketchfab.com/3d-models/hand-wash-station-d4a93239be1f40ee94f1eaee4ac717d3) by Alphawolff (https://sketchfab.com/Alphawolff) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

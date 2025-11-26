@@ -1,0 +1,11 @@
+Model Information:
+* title:	Way Out
+* source:	https://sketchfab.com/3d-models/way-out-fded0c6a2704434ead975115b75dd028
+* author:	CommonSpence (https://sketchfab.com/commonspence)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Way Out" (https://sketchfab.com/3d-models/way-out-fded0c6a2704434ead975115b75dd028) by CommonSpence (https://sketchfab.com/commonspence) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

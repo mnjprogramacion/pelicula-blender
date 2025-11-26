@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hospital Kit_2
+* source:	https://sketchfab.com/3d-models/hospital-kit-2-4cd3297f238f4eeca18649eac1459bb2
+* author:	KotovV.04 (https://sketchfab.com/KotovV.04)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hospital Kit_2" (https://sketchfab.com/3d-models/hospital-kit-2-4cd3297f238f4eeca18649eac1459bb2) by KotovV.04 (https://sketchfab.com/KotovV.04) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

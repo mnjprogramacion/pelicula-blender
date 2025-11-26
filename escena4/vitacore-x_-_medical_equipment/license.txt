@@ -1,0 +1,11 @@
+Model Information:
+* title:	VitaCore-X - medical equipment
+* source:	https://sketchfab.com/3d-models/vitacore-x-medical-equipment-137fab1732d04990b896aca769cd39fe
+* author:	Brian Trepanier (https://sketchfab.com/CMBC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VitaCore-X - medical equipment" (https://sketchfab.com/3d-models/vitacore-x-medical-equipment-137fab1732d04990b896aca769cd39fe) by Brian Trepanier (https://sketchfab.com/CMBC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
